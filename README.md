@@ -42,23 +42,7 @@ Darstellung der Powerfunktion
 als Wahrscheinlichkeit $P_p(X \in K)$
 in Abhängigkeit vom wahren Parameter p.
 
----
-## Inhalte - Konfidenzintervalle
-
-### 1. Berechnungen
-Es werden die WALD-WILSON- und CLOPPER-PERASON-Konfidenzintervalle berechnet und ausgegeben.
-
-### 2. Prognosintervalle
-Es wird mithife der Konfidenzellipse ein Prognoseintervall ermittelt.
-
-### 3. Konfidenzintervalle
-Es wird mithife der Konfidenzellipse ein Konfidenzintervall ermittelt.
-
-### 4. Simulationen
-
-Es werden $n$ Konfidenzintervalle mithilfe einer Sumulation ermittelt und gafisch dargestellt.
-
----
+--- 
 
 ## Ausführung
 
